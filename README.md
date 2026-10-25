@@ -31,6 +31,10 @@ Material docente con datos abiertos de la NASA (tripulación civil de Inspiratio
 - Preregistro: https://doi.org/10.17605/OSF.IO/W3NP2
 - Preprint: https://doi.org/10.64898/2026.10.16.26365757
 
+## Ciencia abierta
+Este material sigue las prácticas de ciencia abierta del curso:
+- NASA Open Science Training Team. (2025). *Open Science 101*. NASA. https://science.nasa.gov/open-science/training/
+
 ## Licencia
 Texto y datos derivados: CC BY 4.0. Código: MIT. Ver `LICENSE`.
 
