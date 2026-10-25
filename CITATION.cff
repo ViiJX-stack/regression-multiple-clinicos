@@ -9,7 +9,7 @@ authors:
 version: "1.0.0"
 date-released: 2026-10-25
 license: CC-BY-4.0
-repository-code: "https://github.com/TU_USUARIO/regresion-multiple-clinicos"
+repository-code: "https://github.com/ViiJX-stack/regression-multiple-clinicos"
 keywords:
   - biostatistics
   - multiple regression
