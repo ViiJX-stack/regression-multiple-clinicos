@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usa este material, por favor cítelo así."
+title: "Regresión y correlación múltiple para clínicos: material docente con datos abiertos de la NASA (Inspiration4)"
+type: software
+authors:
+  - family-names: "Godínez-Vázquez"
+    given-names: "Víctor Junior"
+    orcid: "https://orcid.org/0000-0003-0644-801X"
+version: "1.0.0"
+date-released: 2026-10-25
+license: CC-BY-4.0
+repository-code: "https://github.com/TU_USUARIO/regresion-multiple-clinicos"
+keywords:
+  - biostatistics
+  - multiple regression
+  - repeated measures
+  - medical education
+  - open data
+  - NASA
