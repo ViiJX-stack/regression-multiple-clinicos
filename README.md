@@ -2,7 +2,7 @@
 
 Material docente con datos abiertos de la NASA (tripulación civil de Inspiration4) para enseñar regresión múltiple, variables indicadoras, medidas repetidas y correlación desde el punto de vista del médico.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/regresion-multiple-clinicos/blob/main/clase_regresion_nasa.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ViiJX-stack/regression-multiple-clinicos/blob/main/clase_regresion_nasa.ipynb)
 
 ## Cómo usarlo
 1. Haga clic en **Abrir en Colab**.
@@ -12,7 +12,7 @@ Material docente con datos abiertos de la NASA (tripulación civil de Inspiratio
 | Archivo | Descripción |
 |---|---|
 | `clase_regresion_nasa.ipynb` | Cuaderno de la clase (Python, comentarios en español) |
-| `datos/i4_analysis.csv` | 28 muestras (4 tripulantes × 7 momentos), con reglas de calidad aplicadas |
+| `i4_analysis.csv` | 28 muestras (4 tripulantes × 7 momentos), con reglas de calidad aplicadas |
 
 ## Qué se enseña
 - Variables categóricas como variables indicadoras (dummies).
