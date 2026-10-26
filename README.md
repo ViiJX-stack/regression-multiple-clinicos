@@ -40,7 +40,7 @@ Material docente con datos abiertos de la NASA (tripulación civil de Inspiratio
 - UNC Eshelman School of Pharmacy. Biostatistics, Lesson 6: Continuous outcomes, linear regression. https://wp.media.unc.edu/biostatistics/lesson-6-continuous-outcomes-linear-regression/
 
 ## Ciencia abierta / Open science
-- NASA Open Science Training Team. (2025). *Open Science 101*. NASA. https://science.nasa.gov/open-science/training/
+- NASA Open Science Training Team. (2026). *Open Science 101*. NASA. https://science.nasa.gov/open-science/training/
 
 ## Licencia / License
 Texto y datos derivados / Text and derived data: CC BY 4.0. Código / Code: MIT. Ver / See `LICENSE`.
